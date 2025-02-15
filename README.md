@@ -79,4 +79,4 @@ Feel free to open issues or create pull requests to improve this project. Contri
 
 - **Love2D** for the game framework.
 - **anim8** for smooth animation handling.
-
+- **Me** because i made this small project :)
